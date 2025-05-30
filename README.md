@@ -1,22 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mani Sai Teja Bejjala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/bejjala-mani-sai-teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bejjala-mani-sai-teja" height="30" width="40" /></a>
-<a href="https://dev.to/manisaiteja2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manisaiteja2007" height="30" width="40" /></a>
-<a href="https://twitter.com/manisaiteja_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manisaiteja_b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bejjala mani sai teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bejjala mani sai teja" height="30" width="40" /></a>
-</p>
+  <h1>Hi, I'm Mani Sai Teja Bejjala 👋</h1>
+  <p class="intro">
+    I'm a passionate <strong>Frontend Developer</strong> and B-Tech ECE student at <strong>IIIT Sri City, Chittoor</strong>, India. I love building intuitive, user-friendly web interfaces and exploring cutting-edge technologies in web development, embedded systems, and beyond. My goal is to create impactful solutions that blend creativity with technical precision.
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  <h2>🛠️ Languages & Tools</h2>
+  <h3>Frontend & Web Development</h3>
+  <p>HTML5, CSS3, JavaScript, React, Angular, Express, Node.js, D3.js</p>
+  <h3>Programming & Systems</h3>
+  <p>C, C++, Python, Java, Bash, Linux, Git, Docker, Kubernetes, Arduino, Unity</p>
+  <h3>Databases & Cloud</h3>
+  <p>MongoDB, MySQL, PostgreSQL, AWS, Firebase</p>
+  <h3>DevOps & Tools</h3>
+  <p>Jenkins, Postman, MATLAB</p>
+  <div class="skills-grid">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=d3js" alt="D3.js" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" />
+  </div>
 
-<!-- Stats -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiteja2007&theme=aura&hide_border=true" width="50%" />
-  
-</div>
+  <h2>📫 Connect with Me</h2>
+  <div class="social-links">
+    <a href="https://codepen.io/bejjala-mani-sai-teja" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
+    <a href="https://dev.to/manisaiteja2007" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" /></a>
+    <a href="https://twitter.com/manisaiteja_b" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/bejjala-mani-sai-teja" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  </div>
 
+  <h2>📊 My GitHub Stats</h2>
+  <div class="stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiteja2007&theme=aura&hide_border=true" width="50%" alt="Streak Stats" />
+  </div>
+
+  <p class="fun-fact">
+    🌟 <strong>Fun Fact</strong>: I’m always experimenting with new tech stacks and enjoy bridging my ECE background with frontend development to create innovative projects!
+  </p>
