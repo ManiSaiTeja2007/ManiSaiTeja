@@ -63,7 +63,7 @@ Jenkins, Postman, MATLAB
   <img src="https://img.shields.io/badge/-DIGITAL%20FOOTPRINT%20STATS-1A1A1A?style=for-the-badge&color=00FFCC&logo=activitypub&logoColor=white" alt="Digital Footprint Stats" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiteja2007&theme=aura&hide_border=true" width="50%" alt="Streak Stats" />
