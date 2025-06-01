@@ -65,6 +65,7 @@ Jenkins, Postman, MATLAB
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" alt="Top Languages" />
+  <p align="laeft">
     <img src="https://github-readme-stats.vercel.app/api?username=manisaiteja2007&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="50%" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisaiteja2007&theme=aura&hide_border=true" width="50%" alt="Streak Stats" />
 </p>
